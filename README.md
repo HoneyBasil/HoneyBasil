@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @HoneyBasil
+- I'm a computer science student studying game development on my free time!
